@@ -1,3 +1,3 @@
 print("Thdis file was created within RStudio")
 
-print("and aab now iat lives on Gifthub")
+print("and aab ndow iat lives on Gifthub")
